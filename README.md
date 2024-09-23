@@ -22,11 +22,11 @@ The LLM extracts the key number `n` and sets an `n` minute timer, which is displ
 No ending condition yet...crashes after infinite listening
 
 ## Other ideas
-GPT wrapper
-add to notes
-add to calendar
-send message (text, discord)
-Spotify? How to design to see full playlist
+1. GPT wrapper
+1. add to notes
+1. add to calendar
+1. send message (text, discord)
+1. Spotify? How to design to see full playlist
 
 
 
